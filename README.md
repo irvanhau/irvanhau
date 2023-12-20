@@ -1,6 +1,8 @@
-### 👋 Hi, I’m Irvan Hauwerich
-- 👀 I’m interested in PHP, Javascript and PHP Frameworks
-- 🌱 I’m currently learning Golang
+<h1 align="center">Hi 👋, I'm Irvan Hauwerich</h1>
+<h3 align="center">A passionate backend developer from Indonesia</h3>
+
+- 👀 I’m interested in Golang, PHP, Javascript and PHP Frameworks
+- 🌱 I’m currently learning Flutter
 - 📓 I'm studying at President University
 - 💥 Information System
 
@@ -17,9 +19,17 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=JQuery)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-000000?style=flat&logo=GoogleCloud)
 
 ✨ **Statistics**
 
 |Github Stats|Languages|
 |---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=irvanhau&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irvanhau&theme=gotham) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irvanhau&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irvanhau&theme=gotham) | 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irvanhau&show_icons=true&locale=en" alt="irvanhau" style="max-width: 100%;">
+
+### Reach me
+
+[![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:irvanhau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%234A3335.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irvan-hauwerich-b953a822b)
