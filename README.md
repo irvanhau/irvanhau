@@ -27,7 +27,7 @@
 |---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=irvanhau&theme=gotham)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irvanhau&theme=gotham) | 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irvanhau&show_icons=true&locale=en" alt="irvanhau" style="max-width: 100%;">
+![Irvab's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanhau&show_icons=true&theme=transparent)
 
 ### Reach me
 
